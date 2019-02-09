@@ -1,1 +1,6 @@
 
+Title: Student next assignment submission prediction using machine learning approach 
+
+Sadiq Hussain, Mushtaq Hussain...
+=============================== Abstract======================
+The web-based learning platform provides quality education in nowadays, but course drop out is a critical issue in this system. Therefore to detect dropout student in advance before the end, of course, is an important problem. In the current study, we predict the next assignment submission of the student, which detect the student course dropout before the end of course. Mostly the previous machine learning (ML) method is based on time-consuming processing such as feature extraction and preprocessing. But the current study model base on convolution neural network (CNN) which automatically do feature extraction  
