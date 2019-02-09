@@ -1,5 +1,10 @@
+Dear Team, First of all congratulation to all team members on publishing our paper in EI conferences 
+ Title: "Mining Moodle Data to Detect the Inactive and Lowperformance Students during the Moodle Course"
+ Conferences:2nd International Conference on Big Data ResearchAt: Weihai,China
+our next project is to published our paper in SCI or SCIE journal 
+
 # Predict-assigment-submission-using-Deep-learning
-1- The main goal of this project to predict student next week assigment submission probability uisng Deep learning (CNN) without uisng preprocessing 
+Main Goal: The main goal of this project to predict student next week assigment submission probability uisng Deep learning (CNN) without uisng preprocessing 
 
 2- Language: Python , Tensorflow
 
