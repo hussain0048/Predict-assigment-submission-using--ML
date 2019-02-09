@@ -8,3 +8,27 @@ Therefore to detect dropout student in advance before the end, of course, is an 
 we predict the next assignment submission of the student, which detect the student course dropout before the end of course. 
 Mostly the previous machine learning (ML) method is based on time-consuming processing such as feature extraction and preprocessing. 
 But the current study model base on convolution neural network (CNN) which automatically do feature extraction  
+keywords:Convolution neural network, dropout prediction, feature extraction
+
+==============================1. Introduction==============================
+In current study, we used Convolution neural network (CNN) to developed productive model because it do automatically feature extraction from raw data and 
+required less features extraction effectors as compare to other ML methods.
+
+=============================1.1	Research questions====================================================================================
+
+=============================2.	Problem Description=========================================================
+In this study, we used student activities data in VLE to predict, is student submit course next assignment 
+
+=============================3.	Related Work=======================================================================
+
+
+=============================4.	Materials and Methods====================================================================
+
+==============================4.1 Data Description and Study Context===================================================
+
+
+================================5. Experiments and Results=====================================
+
+
+===================================References====================================================================
+
