@@ -7,4 +7,4 @@
 
 4- "SCI journal List" This folder contains file and please upate this file with relevant SCI journal name and their other detials during literature review
 
-5- "Paper List" This folder contains file please update the paper with related paper with this projects 
+5- "Paper List" This folder contains file please update this files with related paper with this projects 
