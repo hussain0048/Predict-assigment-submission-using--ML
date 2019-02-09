@@ -1,6 +1,8 @@
 Dear Team, First of all congratulation to all team members on publishing our paper in EI conferences 
- Title: "Mining Moodle Data to Detect the Inactive and Lowperformance Students during the Moodle Course"
+
+Title: "Mining Moodle Data to Detect the Inactive and Lowperformance Students during the Moodle Course"
  Conferences:2nd International Conference on Big Data ResearchAt: Weihai,China
+
 our next project is to published our paper in SCI or SCIE journal 
 
 # Predict-assigment-submission-using-Deep-learning
