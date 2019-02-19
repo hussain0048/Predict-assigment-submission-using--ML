@@ -2,8 +2,8 @@ Dear Team, First of all congratulation to all team members on publishing our pap
 
 Title: "Mining Moodle Data to Detect the Inactive and Lowperformance Students during the Moodle Course"
  Conferences:2nd International Conference on Big Data ResearchAt: Weihai,China
- EI index:
- https://www.engineeringvillage.com/search/doc/abstract.url?&pageType=quickSearch&usageZone=resultslist&usageOrigin=searchresults&searchtype=Quick&SEARCHID=868fcf0c94ad4e3a997054b27a7db6c2&DOCINDEX=1&ignore_docid=cpx_M63a14164168dd7ff576M5f0010178163167&database=1&format=quickSearchAbstractFormat&tagscope=&displayPagination=yes
+ EI index:Accession number: 20190606467653
+ 
 
 our next project is to published our paper in SCI or SCIE journal 
 
